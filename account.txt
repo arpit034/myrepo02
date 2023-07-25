@@ -1,2 +1,5 @@
 .my account
 .my password
+my domain 
+my knowledge 
+my framework 
