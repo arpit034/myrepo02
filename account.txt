@@ -3,3 +3,11 @@
 my domain 
 my knowledge 
 my framework 
+my history 
+push - git push -u origin master
+new changes 
+hello world 
+my friend 
+cherry god bless uy
+
+
