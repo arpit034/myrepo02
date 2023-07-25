@@ -2,4 +2,6 @@
 .my password
 my history 
 push - git push -u origin master
+new changes 
+hello world 
 
